@@ -1,3 +1,6 @@
+<img width="736" height="414" alt="1000066607" src="https://github.com/user-attachments/assets/d015c276-6a27-4bd8-8e32-c128fd298f69" />
+
+
 <div align="center">
 
 # KageBytes
