@@ -1,5 +1,3 @@
-.github
-
 # KageBytes
 
 > Code • Cybersecurity • Research • Open Source
