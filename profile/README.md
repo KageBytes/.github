@@ -1,11 +1,11 @@
+<div align="center">
+
+# KageBytes
+
 <img width="1672" height="941" alt="1000066609" src="https://github.com/user-attachments/assets/e2291c16-1c22-4b8b-a2b2-4b2bbfb25faa" />
 
 
 
-
-<div align="center">
-
-# KageBytes
 
 **Code · Security · Research . Explore**
 
