@@ -1,19 +1,28 @@
+<div align="center">
+
 # KageBytes
 
-> Code • Cybersecurity • Research • Open Source
+**Code · Security · Research . Explore**
 
-KageBytes is an independent open-source organization exploring
-the intersection of code, cybersecurity, research, and technology.
+Open-source projects, tools, and experiments in technology and cybersecurity.
 
-## What We Do
-
-- 🛠️ Open-source software
-- 🔐 Cybersecurity research
-- 🧪 Experimental projects
-- 📚 Technical documentation
-- 💻 Developer tools
+</div>
 
 ---
 
-© KageBytes
+### What We Do
 
+- 🔐 Cybersecurity
+- 💻 Software & Tools
+- 🔬 Technical Research
+- 🧪 Experimental Projects
+
+
+
+<div align="center">
+
+`KAGEBYTES`
+
+*Open Source · Independent · Experimental*
+
+</div>
